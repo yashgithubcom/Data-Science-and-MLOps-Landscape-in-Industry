@@ -36,9 +36,6 @@ This repository contains a detailed report analyzing the **Data Science and MLOp
   - Specified an industry (Q24 answered).
 - **Analysis**: Focused on trends in ML adoption, tools, roles, and salaries, with outlier checks for robustness.
 
-## Repository Contents
-- **[Report PDF](Data Science and MLOps Landscape in Industry Report.docx)**: Full analysis with visuals and insights.
-
 ## Tools & Technologies
 - **Languages**: Python, SQL, R
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn
