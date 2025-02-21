@@ -1,6 +1,6 @@
 ### Data Science and MLOps Landscape in Industry
 
-![Banner]((https://github.com/yashgithubcom/Data-Science-and-MLOps-Landscape-in-Industry/blob/master/MLDS.jpg)))
+![Banner](MLDS.jpg)
 
 ## Overview
 This repository contains a detailed report analyzing the **Data Science and MLOps landscape in industry**, based on the *2022 Kaggle Machine Learning & Data Science Survey*. Authored by [Your Name], the project explores AI adoption, enterprise tech stacks, cloud platforms, ML tools, job roles, skills, and salary insights. It aims to provide a comprehensive view of how organizations leverage data science and operationalize machine learning in 2022.
