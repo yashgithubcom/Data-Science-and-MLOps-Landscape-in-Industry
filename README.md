@@ -37,7 +37,7 @@ This repository contains a detailed report analyzing the **Data Science and MLOp
 - **Analysis**: Focused on trends in ML adoption, tools, roles, and salaries, with outlier checks for robustness.
 
 ## Repository Contents
-- **[Report PDF](A_Report_on_Data_Science_and_MLOps_Landscape_in_Industry.pdf)**: Full analysis with visuals and insights.
+- **[Report PDF](Data Science and MLOps Landscape in Industry Report.docx)**: Full analysis with visuals and insights.
 
 ## Tools & Technologies
 - **Languages**: Python, SQL, R
